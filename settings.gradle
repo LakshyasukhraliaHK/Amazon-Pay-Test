@@ -1,0 +1,4 @@
+include ':app'
+include ':PWAINSilentPayAndroidSDK'
+include ':AmazonIdentityMobileAndroidSDK-silentPay-release'
+rootProject.name = "Amazon Pay Test"
